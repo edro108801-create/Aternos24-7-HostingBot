@@ -1,13 +1,13 @@
 {
   "name": "AURA Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "MLSSMP3.aternos.me",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "ultracraft121.aternos.me",
-    "port": 62213,
+    "port": 11325,
     "version": "",
     "try-creative": false
   },
